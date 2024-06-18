@@ -124,7 +124,7 @@
 # # *         Repeats a character zero or more times
 # # *?        Repeats a character zero or more times (non-greedy)
 # # +         Repeats a character one or more times
-# # +?        Repeats a character one or more timer (non greedy)
+# # +?        Repeats a character one or more times (non greedy)
 # # [aeiou]   Matches a single character in the listed set
 # # [^xyz]    matches a single character not in the listed set
 # # [a-x0-9]  The set of characters can include a range
