@@ -1,0 +1,3 @@
+cheese and swiss cheese
+this document is for testing file reading and writing
+yipeee \_(O.O)_/
